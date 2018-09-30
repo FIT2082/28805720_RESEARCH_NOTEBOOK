@@ -1,4 +1,4 @@
-Week 6: 3 September - 7 September
+Week 6: 3 September - 9 September
 =================================
 
 Investigated different predictive models, looking also at past work such as 
